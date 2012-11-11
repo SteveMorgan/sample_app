@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>rails_projects/sample_app/app/views/static_pages/contact.html.erb</string>
+	<string>spec/requests/static_pages_spec.rb</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -18,10 +18,38 @@
 		</dict>
 	</array>
 	<key>fileHierarchyDrawerWidth</key>
-	<integer>200</integer>
+	<integer>232</integer>
 	<key>metaData</key>
 	<dict>
-		<key>rails_projects/sample_app/app/views/static_pages/about.html.erb</key>
+		<key>Gemfile</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>22</integer>
+				<key>line</key>
+				<integer>9</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>Guardfile</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>4</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>app/views/static_pages/about.html.erb</key>
 		<dict>
 			<key>caret</key>
 			<dict>
@@ -35,29 +63,61 @@
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
-		<key>rails_projects/sample_app/app/views/static_pages/contact.html.erb</key>
+		<key>config/database.yml</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>4</integer>
+				<integer>0</integer>
 				<key>line</key>
-				<integer>5</integer>
+				<integer>0</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
+		<key>spec/requests/static_pages_spec.rb</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>15</integer>
+				<key>line</key>
+				<integer>21</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>11</integer>
+		</dict>
+		<key>spec/spec_helper.rb</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>42</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>29</integer>
+		</dict>
 	</dict>
 	<key>openDocuments</key>
 	<array>
-		<string>rails_projects/sample_app/app/views/static_pages/about.html.erb</string>
-		<string>rails_projects/sample_app/app/views/static_pages/contact.html.erb</string>
+		<string>app/views/static_pages/about.html.erb</string>
+		<string>spec/requests/static_pages_spec.rb</string>
+		<string>Gemfile</string>
+		<string>spec/spec_helper.rb</string>
+		<string>config/database.yml</string>
+		<string>Guardfile</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{210, 4}, {1230, 874}}</string>
+	<string>{{1294, 184}, {1083, 874}}</string>
 </dict>
 </plist>
