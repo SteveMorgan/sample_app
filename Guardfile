@@ -49,4 +49,3 @@ guard 'spork', :rspec_env => { 'RAILS_ENV' => 'test' } do
   watch('test/test_helper.rb')
   watch('spec/support/')
 end
-
